@@ -5,7 +5,7 @@ Maven Repository to leverage Scala and Java code together
 
 ## 2 Apps in the Repository
 app1: Uses Java Class (Point) in Scala Main Class (org.app.app1.scala.PointRunner$)
-app2: Uses Scala Class (Point) in Java Main Class (org.app.app2.java.PointRunner)
+<br/>app2: Uses Scala Class (Point) in Java Main Class (org.app.app2.java.PointRunner)
 
 ## Takeaway:
 The POM file is the highlight of this project. It allows for cross functioning of the classes written in different programming languages.
