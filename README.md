@@ -14,12 +14,12 @@ The POM file is the highlight of this project. It allows for cross functioning o
 $ mvn clean package -Dlatest.scala.version=2.13.0-M1 -Dmaven.compiler.plugin.source=1.8 -Dmaven.compiler.plugin.target=1.8 -Dmaven.assembly.plugin.version=3.0.0
 
 ## Fat Jar Execution
-### To execute the main class as mentioned in the POM file in the description of maven-assembly-plugin tag (mainClass)
+### Execute main class as mentioned in POM
 $ java -jar target/cross-language-1.0-SNAPSHOT-jar-with-dependencies.jar 
-Java Runner
-(15, 30)
+<br>Java Runner
+<br>(15, 30)
 
 ### To exeute a specific mainClass
 java -cp target/cross-language-1.0-SNAPSHOT-jar-with-dependencies.jar org.app.app1.scala.PointRunner
-Scala Runner
-(10, 20)
+<br>Scala Runner
+<br>(10, 20)
