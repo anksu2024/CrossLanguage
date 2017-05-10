@@ -1,9 +1,9 @@
 # CrossLanguage
 
 ## About
-Maven Project to use leverage Scala and Java code together
+Maven Repository to leverage Scala and Java code together
 
-## In this project, there are 2 apps:
+## 2 Apps in the Repository
 app1: Uses Java Class (Point) in Scala Main Class (org.app.app1.scala.PointRunner$)
 app2: Uses Scala Class (Point) in Java Main Class (org.app.app2.java.PointRunner)
 
