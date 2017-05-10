@@ -11,7 +11,7 @@ app2: Uses Scala Class (Point) in Java Main Class (org.app.app2.java.PointRunner
 The POM file is the highlight of this project. It allows for cross functioning of the classes written in different programming languages.
 
 ## Maven packaging
-$ mvn clean package
+$ mvn clean package -Dlatest.scala.version=2.13.0-M1 -Dmaven.compiler.plugin.source=1.8 -Dmaven.compiler.plugin.target=1.8 -Dmaven.assembly.plugin.version=3.0.0
 
 ## Fat Jar Execution
 ### To execute the main class as mentioned in the POM file in the description of maven-assembly-plugin tag (mainClass)
