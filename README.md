@@ -14,7 +14,7 @@ The POM file is the highlight of this project. It allows for cross functioning o
 $ mvn clean package -Dlatest.scala.version=2.13.0-M1 -Dmaven.compiler.plugin.source=1.8 -Dmaven.compiler.plugin.target=1.8 -Dmaven.assembly.plugin.version=3.0.0
 
 ## Fat Jar Execution
-### Using POM to identify the default main class
+### Execute main class as mentioned in POM
 $ java -jar target/cross-language-1.0-SNAPSHOT-jar-with-dependencies.jar 
 <br>Java Runner
 <br>(15, 30)
