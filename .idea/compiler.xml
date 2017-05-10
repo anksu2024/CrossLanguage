@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cross-language" target="1.8" />
+      <module name="cross-language" target="${maven.compiler.plugin.target}" />
       <module name="demo-maven" target="1.8" />
     </bytecodeTargetLevel>
   </component>
