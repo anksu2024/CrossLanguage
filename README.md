@@ -20,6 +20,6 @@ $ java -jar target/cross-language-1.0-SNAPSHOT-jar-with-dependencies.jar
 <br>(15, 30)
 
 ### To execute a specific mainClass
-java -cp target/cross-language-1.0-SNAPSHOT-jar-with-dependencies.jar org.app.app1.scala.PointRunner
+$ java -cp target/cross-language-1.0-SNAPSHOT-jar-with-dependencies.jar org.app.app1.scala.PointRunner
 <br>Scala Runner
 <br>(10, 20)
