@@ -1,7 +1,9 @@
 # CrossLanguage
 
 ## About
-Maven Repository to leverage Scala and Java code together
+Introduction : Maven Repository to leverage Scala and Java code together
+Author       : Ankit Sarraf
+Date         : May 09, 2017
 
 ## 2 Apps in the Repository
 app1: Uses Java Class (Point) in Scala Main Class (org.app.app1.scala.PointRunner$)
