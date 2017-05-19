@@ -2,6 +2,7 @@
 
 ## About
 Introduction : Maven Repository to leverage Scala and Java code together
+Description  : Template for creating a project that can work with both Scala and Java classes
 Author       : Ankit Sarraf
 Date         : May 09, 2017
 
