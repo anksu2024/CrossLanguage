@@ -1,11 +1,10 @@
 # CrossLanguage
 
 ## About
-<p>Introduction : Maven Repository to leverage Scala and Java code together
-Description  : Template for creating a project that can work with both Scala and Java classes
-Author       : Ankit Sarraf
-Date         : May 09, 2017
-</p>
+Author&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;Ankit Sarraf
+<br/>Introduction&nbsp;:&nbsp;Maven Repository to leverage Scala and Java code together
+<br/>Description&nbsp;&nbsp;:&nbsp;Template for creating a project that can work with both Scala and Java classes
+<br/>Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;May 09, 2017
 
 ## 2 Apps in the Repository
 app1: Uses Java Class (Point) in Scala Main Class (org.app.app1.scala.PointRunner$)
